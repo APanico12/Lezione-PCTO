@@ -1,6 +1,6 @@
 # 📊 Lezione PCTO – Statistica e Modellazione dei Dati
 
-Benvenuti alla lezione PCTO sull’analisi dei dati e la statistica applicata!  
+Benvenuti alla lezione PCTO Introduzione ai metodi statistici per le applicazioni industriali!  
 Questa lezione si propone di introdurre i concetti fondamentali della statistica descrittiva, della correlazione e della modellazione predittiva con un approccio pratico e guidato.
 
 ---
